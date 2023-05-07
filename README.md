@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ariayeahhh
 - 👀 I’m interested in AI and machine learning.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python. My major is information management and information system.
+- 💞️ I’m looking to collaborate on doing projects.
 - 📫 How to reach me ...
 
 <!---
